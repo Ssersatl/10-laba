@@ -1,8 +1,1 @@
-@import "/css/style";
 
-@media(max-width: 475px) {
-	#game-container {
-		text-align: center;
-		margin: 0 15px;
-	 }
-}
